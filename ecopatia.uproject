@@ -41,10 +41,17 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
 		"PS4",
 		"PS5",
 		"Windows",
